@@ -1,5 +1,5 @@
 annotations:
-  category: Analytics
+  category: test-Analytics
 apiVersion: v2
 appVersion: 0.44.1
 dependencies:

@@ -1,5 +1,5 @@
 annotations:
-  category: ProjectManagement
+  category: test-ProjectManagement
 apiVersion: v2
 appVersion: 2020.42.0
 dependencies:

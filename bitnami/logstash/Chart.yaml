@@ -1,5 +1,5 @@
 annotations:
-  category: LogManagement
+  category: test-LogManagement
 apiVersion: v2
 appVersion: 7.10.2
 dependencies:

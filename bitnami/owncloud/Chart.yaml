@@ -1,5 +1,5 @@
 annotations:
-  category: Infrastructure
+  category: test-Infrastructure
 apiVersion: v2
 appVersion: 10.6.0
 dependencies:

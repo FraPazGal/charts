@@ -1,5 +1,5 @@
 annotations:
-  category: WorkFlow
+  category: test-WorkFlow
 apiVersion: v2
 appVersion: 1.10.14
 dependencies:

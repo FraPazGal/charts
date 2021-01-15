@@ -1,5 +1,5 @@
 annotations:
-  category: HumanResourceManagement
+  category: test-HumanResourceManagement
 apiVersion: v2
 appVersion: 4.7.0-0
 dependencies:

@@ -1,5 +1,5 @@
 annotations:
-  category: DeveloperTools
+  category: test-DeveloperTools
 apiVersion: v2
 appVersion: 4.9.3
 dependencies:

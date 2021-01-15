@@ -1,5 +1,5 @@
 annotations:
-  category: MachineLearning
+  category: test-MachineLearning
 apiVersion: v2
 appVersion: 1.7.1
 dependencies:

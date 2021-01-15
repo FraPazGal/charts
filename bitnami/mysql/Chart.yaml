@@ -1,5 +1,5 @@
 annotations:
-  category: Database
+  category: test-Database
 apiVersion: v2
 appVersion: 8.0.22
 dependencies:

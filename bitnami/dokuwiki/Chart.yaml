@@ -1,5 +1,5 @@
 annotations:
-  category: Wiki
+  category: test-Wiki
 apiVersion: v2
 appVersion: 20200729.0.0
 dependencies:

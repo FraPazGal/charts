@@ -1,5 +1,5 @@
 annotations:
-  category: ApplicationServer
+  category: test-ApplicationServer
 apiVersion: v2
 appVersion: 9.0.41
 dependencies:

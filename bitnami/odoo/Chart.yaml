@@ -1,5 +1,5 @@
 annotations:
-  category: CRM
+  category: test-CRM
 apiVersion: v2
 appVersion: 14.0.20210110
 dependencies:

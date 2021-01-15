@@ -1,5 +1,5 @@
 annotations:
-  category: CMS
+  category: test-CMS
 apiVersion: v2
 appVersion: 9.1.2
 dependencies:

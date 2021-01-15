@@ -1,5 +1,5 @@
 annotations:
-  category: E-Commerce
+  category: test-E-Commerce
 apiVersion: v2
 appVersion: 3.0.3-6
 dependencies:

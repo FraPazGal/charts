@@ -1,5 +1,5 @@
 annotations:
-  category: Forum
+  category: test-Forum
 apiVersion: v2
 appVersion: 3.3.2
 dependencies:
